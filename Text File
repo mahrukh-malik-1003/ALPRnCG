@@ -1,0 +1,15 @@
+1-Kind of hardware:
+This system consists of a central device (computer) and a network link between the devices. These camera usually installed at roadside top of signals that continuously take roadway images.
+
+2-Speed of vehicle :
+180 km if image is blur than I will apply sound filtration 
+3-detecting  vehicle image and extracting number plate from it:
+yes done both things 
+4-existing system should be consulted :
+yes but at theory level 
+5-some thing new in project:
+This new system will recognized license plate number through federal and regional wanted vehicle databases, as well as through your own local databases.  This system is for standardized number plate not for non-standardized number plate.
+All license plates recognized successful match in database will result in sending a notification message.  If a recognized license plate number obtains a match with an external (federal or regional) or internal (real-time tracking) database, an audible notification is initiated, and an alarm message appears on screen displaying the vehicle license plate number and relevant information from the database individual details of the vehicle. An alarm message can also be configured to display whenever a traffic violation occurs, such as speeding or running a red light.
+The alarm notification window is provided with a confirmation button that can be used to monitor operators' performance. In order to confirm that an alarm has been handled, the operator is required to click the alarm confirmation button within a set time frame after the alarm is initiated. As a result, operators’ work performance can be evaluated by checking how many alarms they confirm, how long it takes them to confirm, and how many alarms they miss.
+ 
+ 
